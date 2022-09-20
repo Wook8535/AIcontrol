@@ -1,4 +1,4 @@
-## :point_right:자기소개 :point_left:
+## :point_right: 자기소개 :point_left:
 | 구분 | 내용 | 비고 |
 |---|:---:|:---:|
 | `이름` | 황인욱 | :man: |
